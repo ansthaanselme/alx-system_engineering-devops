@@ -1,1 +1,1 @@
-# readme for 0x04
+loops and condition devops
